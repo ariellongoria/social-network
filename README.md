@@ -23,7 +23,7 @@ Here are the routes to test:
 -   POST route for reactions at `/thoughts/:thoughtId/reactions`
 -   DELETE route for reactions at `/thoughts/:thoughtId/reactions/:reactionId`
 
-Here is a video walkthrough on how to use it.
+Here is a video walkthrough on how to use it: https://drive.google.com/file/d/1MoVBmKWbtvuxYBkZKJMQu8dm5ZPLC-P8/view
 
 ## Questions
 
